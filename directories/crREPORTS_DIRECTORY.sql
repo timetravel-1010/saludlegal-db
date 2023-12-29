@@ -1,0 +1,1 @@
+CREATE OR REPLACE DIRECTORY reports_directory AS 'C:\app\Chiefpc\product\Reports';
